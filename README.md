@@ -7,7 +7,7 @@ Esse é um bot de Telegram aplicado com Docker que dá informações atualizadas
 /start
 ```
 Olá! Eu sou o Bot do Tempo 🌑🌎🌕
- 🌠Pergunte-me sobre o clima de uma cidade digitando /clima [cidade].
+🌠Pergunte-me sobre o clima de uma cidade digitando /clima [cidade].
 🌠Exemplo: /clima Manaus
 ```
 /clima Sao Paulo
@@ -15,11 +15,15 @@ Olá! Eu sou o Bot do Tempo 🌑🌎🌕
 O clima em Sao Paulo é:
 
 🌡️ Temperatura: 31.61°C
+
 🌤️ Condições: céu limpo
+
 💧 Umidade: 47%
+
 🌬️ Vento: 2.57 km/h
 
 Tenha um ótimo dia! ☀️
+
 (Mais Informações)
 ```
 #Clicando em "Mais infomações"
