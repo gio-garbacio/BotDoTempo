@@ -52,3 +52,10 @@ Mais informações sobre Sao Paulo:
 **Outras observações:**
 * Céu parcialmente nublado
 * Baixa probabilidade de nevoeiro
+
+# Comando para rodar
+```
+docker-compose down
+docker-compose build
+docker-compose up
+```
